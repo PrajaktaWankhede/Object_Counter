@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### Download YOLOv3 files:
 
 yolov3.cfg, yolov3.weights, and coco.names files are required.
-Download them from:
+### Download them from:
 YOLOv3 Weights
 YOLOv3 Configuration
 COCO Names
